@@ -1,6 +1,7 @@
 .CreateTodoButton {
-    background-color: #61DAFA;
-    box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+  border-radius: 50px;
+  background: linear-gradient(154deg, #50b104, #449504);
+    box-shadow: 2px 3px 9px #408c03, -1px -1px 15px #56be05;
     border: none;
     border-radius: 50%;
     cursor: pointer;
